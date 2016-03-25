@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Examples
+Bundle-SymbolicName: com.test.examples
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.test.examples.Activator
+Bundle-Vendor: TEST
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-ActivationPolicy: lazy
